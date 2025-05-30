@@ -12,7 +12,7 @@ Temp Weather App is a simple and intuitive weather application built with Flutte
 
 ## Demo of the app
 
-To view the video demo of the application features and functionalities [click here](https://github.com/Lisky-pixel/temp_converter.git)
+To view the video demo of the application features and functionalities [click here]()
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ To view the video demo of the application features and functionalities [click he
 1. **Clone the repository:**
 
    ```bash
-   git clone
+   git clone https://github.com/Lisky-pixel/temp_converter.git
 
    cd temp_converter
    ```
