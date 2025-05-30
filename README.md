@@ -12,7 +12,7 @@ Temp Weather App is a simple and intuitive weather application built with Flutte
 
 ## Demo of the app
 
-To view the video demo of the application features and functionalities [click here]()
+To view the video demo of the application features and functionalities [click here](https://drive.google.com/drive/folders/1eFFwKvc1dR7doQ40Men8qLqvSD9Yi8pX?usp=drive_link)
 
 ## Getting Started
 
